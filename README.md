@@ -1,6 +1,7 @@
 # Carrinho-Shopee
 Projeto carrinho shopee utilizando Node.js
 #########################################
+
 Objetivo Do Projeto:
 
 Criar carrinho de compras baseado no carrinho de compras da Shoppe, aonde o carrinho armazene itens e faça o cálculo de sub-itens automaticamente.
