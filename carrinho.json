@@ -1,0 +1,27 @@
+{
+  "produtos": [
+    {
+      "nome": "Smartphone",
+      "preco": 1500,
+      "desconto": 0,
+      "avaliacoes": [],
+      "quantidade": 1
+    },
+    {
+      "nome": "Laptop",
+      "preco": 5000,
+      "desconto": 0,
+      "avaliacoes": [],
+      "quantidade": 1
+    },
+    {
+      "nome": "Fone de ouvido",
+      "preco": 200,
+      "desconto": 0,
+      "avaliacoes": [],
+      "quantidade": 2
+    }
+  ],
+  "totalCompra": 6900,
+  "totalItens": 4
+}
