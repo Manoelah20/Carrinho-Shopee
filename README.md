@@ -1,5 +1,9 @@
 # 🛒 Carrinho Shopee – Projeto em Node.js
 
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 Este projeto simula um sistema de carrinho de compras inspirado na plataforma Shopee, desenvolvido em **Node.js** e executado via terminal. O objetivo é permitir que o usuário adicione, remova e modifique produtos, com cálculos automáticos de preços e avaliações.
 
 ---
